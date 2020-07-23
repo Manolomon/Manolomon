@@ -16,9 +16,9 @@ Enthusiastic Software Engineering senior student, I am always willing to learn n
 </a>
 
 ---
-
-<img align='right' width="250" src="./sample/codestats.svg"/>
-
+<a href="https://sourcerer.io/manolomon">
+  <img align='right' width="250" src="https://raw.githubusercontent.com/Manolomon/Manolomon/master/sample/codestats.svg"/>
+</a>
  
 ### Recently Working On
 
