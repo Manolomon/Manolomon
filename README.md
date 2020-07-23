@@ -15,6 +15,7 @@ Enthusiastic Software Engineering senior student, I am always willing to learn n
   <img align="center" src="https://spotify-widget-eight.vercel.app/api/main" alt="Manolo's Spotify"/>
 </a>
 
+---
 
 <a href="https://sourcerer.io/manolomon">
   <img align='right' width="250" src="https://raw.githubusercontent.com/Manolomon/Manolomon/master/sample/codestats.svg"/>
