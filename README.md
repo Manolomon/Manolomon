@@ -1,6 +1,6 @@
 ### About Me
 
-[![Instagram](https://img.shields.io/badge/-manolo.json-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/manolo.json/) [![LinkedIn](https://img.shields.io/badge/-J%20Manuel%20Perez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/j-manuel-perez) [![Twitter](https://img.shields.io/badge/-manolodotjson-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/manolodotjson)
+[![Instagram](https://img.shields.io/badge/-manolo.json-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/manolo.json/) [![LinkedIn](https://img.shields.io/badge/-J%20Manuel%20Perez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/j-manuel-perez) [![Twitter](https://img.shields.io/badge/-manolodotjson-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/manolodotjson) [![ORCID](https://img.shields.io/badge/-J%20Manuel%20Perez-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3398-2632)
 
 <div style="text-align: justify">
 Enthusiastic Software Engineering senior student, I am always willing to learn new things and become experimented  in the fields of trends in the IT orbit. I have worked in different areas of the software, either for school or freelancing projects, always trying my best. I’m often looking for new ideas to solve the issues we face as a society, and founded out that Artificial Intelligence is a great initial approach to do so.
@@ -15,7 +15,7 @@ Enthusiastic Software Engineering senior student, I am always willing to learn n
   <img align="center" src="https://spotify-widget-eight.vercel.app/api/main" alt="Manolo's Spotify"/>
 </a>
 
----
+
 <a href="https://sourcerer.io/manolomon">
   <img align='right' width="250" src="https://raw.githubusercontent.com/Manolomon/Manolomon/master/sample/codestats.svg"/>
 </a>
