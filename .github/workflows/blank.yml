@@ -15,3 +15,4 @@ jobs:
       - uses: Manolomon/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
