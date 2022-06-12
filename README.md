@@ -8,7 +8,7 @@ Enthusiastic Junior Software Engineer, I am always willing to learn new things a
 
 ---
 
-#### My Open Source Stats (plus some a song recomendation 😉)
+#### My Open Source Stats (plus a song recomendation 😉)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Manolomon&show_icons=true&hide_border=true" alt="Manolo's github stats" />
